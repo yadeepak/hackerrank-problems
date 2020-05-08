@@ -1,5 +1,7 @@
 //https://www.hackerrank.com/challenges/library-fine/
+
 // Complete the libraryFine function below.
+
 function libraryFine(d1, m1, y1, d2, m2, y2) {
 	let hackos = 0;
 	if (y1 > y2) {
