@@ -1,6 +1,7 @@
 https://www.hackerrank.com/challenges/flatland-space-stations
 
 // Complete the flatlandSpaceStations function below.
+
 function flatlandSpaceStations(n, m, c) {
 	const resultArray = [];
 	for (let i = 0; i < n; i++) {
